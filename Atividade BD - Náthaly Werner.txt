@@ -1,0 +1,103 @@
+Atividade dia 17/08 - Náthaly Werner
+
+Questão 1 Clinica Médica
+Tabela 1- Dados Pessoais
+1.1- Nome
+1.2- CPF
+1.3- Endereço
+1.4 - Telefone 
+
+Tabela 2 - Médicos
+2.1 - CRM
+2.2 - Nome
+2.3 - Salário
+
+Tabela 3 - Especialização
+3.1 Nome da especialização
+
+Tabela 4 - Pacientes
+4.1 Médico Responsável
+4.2 Nome do Paciente
+4.3 Quarto
+
+Tabela 5 - Quarto
+5.1 Número
+5.2 Andar
+
+Questão 2 Locadora
+Tabela 1 - DVD
+1.1 Numero de identificação
+
+Tabela 2 - Filme
+2.1 Nome do Filme
+2.2 Categoria/Gênero
+
+Tabela 3 - Atores
+3.1 Nome do Ator/Atriz
+3.2 Filme Estrelado
+3.3 Categoria de filmes estrelados
+
+Tabela 4 - Clientes
+4.1 Nome
+4.2 Sobrenome
+4.3 Telefone
+4.4 Endereço
+4.5 Id
+
+Tabela 5 - Empréstimos
+5.1 Cliente
+5.2 Filme Alugado
+5.3 Data de Empréstimo
+5.4 Data de devolução
+5.5 Valor do Empréstimo
+5.6 Multa de Atraso
+
+Questão 3 - Controle de Estoque
+Tabela 1 - Produto
+1.1 Id produto
+1.2 Nome
+1.3 Descrição
+1.4 Status
+
+Tabela 2 - Tipo Produto
+2.1 Id tipo
+2.2 Nome tipo
+
+Tabela 3 - Subtipo 
+3.1 id subtipo
+3.2 nome subtipo
+3.3 id tipo
+
+Tabela 4 - Fornecedor
+4.1 Id fornecedor
+4.2 Nome 
+4.3 Razão social
+
+Tabela 5 - Compra
+5.1 Id compra
+5.2 Id fornecedor
+5.3 Data compra
+5.4 Valor total
+
+Tabela 6 - Item Compra
+6.1 Preço
+6.2 Produto
+6.3 Quantidade
+6.4 Valor unitário
+
+Tabela 7 Preço
+7.1 Preço
+7.2 Produto
+7.3 Valor
+
+Tabela 8 Venda
+8.1 Venda
+8.2 Comprador
+8.3 valor
+
+Tabela 9 - Item Venda
+Id venda
+id produto
+quantidade
+valor
+
