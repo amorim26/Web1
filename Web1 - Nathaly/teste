@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Restaurante Mineiro</title>
+    <meta charset="utf-8" />
+
+    <link rel="icon" href="./imagens/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+    ''
+    <h1 align="center"><small>Bem vindo ao site do </small> Restaurante Mineiro</h1>
+
+    <h3 align="center">O melhor restaurante de comidas mineiras da região.</h3>
+    <p style="text-align: center;">
+    <q>o sabor mais autêntico da tradição mineira.</q> </p>
+    <p align="center">Aqui você encontra os melhores pratos <b>típicos mineiros.</b></p>
+    <hr>
+    <p><h3>Temos no nosso cardápio:</h3></p>
+<ul>
+    <li>
+        Pratos Quentes
+        <ul>
+            <li>
+                Feijoada Mineira
+                <img src="./imagens/feijoada-mineira.jpg" alt="Feijoada Mineira" width="300">
+            </li>
+            <li>
+                Feijão Tropeiro
+                <img src="./imagens/feijao-tropeiro.jpg" alt="Feijão Tropeiro" width="300">
+            </li>
+            <li>
+                Vaca Atolada
+                <img src="./imagens/vaca-atolada.jpg" alt="Vaca Atolada" width="300">
+            </li>
+            <li>
+                Frango com Quiabo
+                <img src="./imagens/frango-com-quiabo.jpg" alt="Frango com Quiabo" width="300">
+            </li>
+            <li>
+                Tutu Mineiro
+                <img src="./imagens/tutu-mineiro.jpg" alt="Tutu Mineiro" width="300">
+            </li>
+            <li>
+                Torresmo
+                <img src="./imagens/torresmo.jpg" alt="Torresmo" width="300">
+            </li>
+        </ul>
+    </li>
+
+    <li>
+        Doces
+        <ul>
+            <li>
+                Doce de Leite
+                <img src="./imagens/doce-de-leite (1).jpg" alt="Doce de Leite" width="300">
+            </li>
+            <li>
+                Pão de Queijo
+                <img src="./imagens/pao-de-queijo.jpg" alt="Pão de Queijo" width="300">
+            </li>
+            <li>
+                Goiabada Cascão
+                <img src="./imagens/goiabada-cascao.jpg" alt="Goiabada Cascão" width="300">
+            </li>
+        </ul>
+    </li>
+</ul>
+
+<hr> 
+<h2 ><i>O que dizem nossos clientes:</i></h2>
+    <blockquote>
+  <p>"A comida me lembrou o fogão a lenha da minha
+infância na roça. Atendimento impecável!" <br> — Dona Maria da Silva <br/></p>
+</blockquote>
+<hr>
+
+<h2><i>Horários de atendimentos</i></h2>
+<pre>
+Segunda a Sexta: 11h às 15h
+Sábados:         11h às 22h
+Domingos:        11h às 17h
+</pre>
+
+<p align ="center"> Ficou com água na boca? Faça seu pedido online e utilize o cupom de
+desconto <code>MINEIRO10</code> para ganhar 10% off!
+</p>
+<hr>
+
+<p align="center">Nosso restaurante atende rigorosamente as diretrizes sanitárias da <abbr title="Agência Nacional de Vigilância Sanitária">ANVISA</abbr>.</p>
+
+</body>
+
+</html>
