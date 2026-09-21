@@ -1,0 +1,128 @@
+Página inicial - Sabor em Casa
+
+Texto de boas-vindas:
+> Bem-vindo ao Sabor em Casa! Este é um espaço criado para quem gosta de cozinhar, descobrir novos sabores e preparar receitas deliciosas no dia a dia. Aqui você encontrará opções simples e práticas para diferentes momentos.
+
+Sobre Nós
+> O Sabor em Casa nasceu com a ideia de reunir receitas simples e saborosas em um só lugar. Criamos este espaço para facilitar a busca por receitas e incentivar mais pessoas a experimentar o prazer de cozinhar.
+
+> Nosso objetivo é apresentar preparos que possam ser acompanhados com facilidade, utilizando ingredientes conhecidos e acessíveis. Aqui, cada receita foi pensada para diferentes momentos, desde um café da manhã até uma sobremesa para compartilhar.
+(Img)
+
+Receitas em Destaque
+
+Pão de Queijo
+> Uma receita tradicional e muito apreciada, perfeita para acompanhar o café da manhã ou o café da tarde.
+(Img)
+
+Bolo de Chocolate
+> Um clássico que combina com diferentes momentos. O bolo de chocolate é uma opção simples para acompanhar um café ou servir como sobremesa.
+(Img)
+
+Panquecas
+> Práticas e versáteis, as panquecas podem ser preparadas para o café da manhã, lanche ou até mesmo como uma refeição.
+(Img)
+
+Receita	Tempo de preparo	Categoria
+Pão de Queijo	            40 minutos	    Lanche
+Bolo de Chocolate	50 minutos	Sobremesa
+Panquecas	           30 minutos	  Café da manhã
+
+Entre em contato
+> Tem alguma sugestão de receita ou gostaria de compartilhar uma ideia? Entre em contato conosco pelo e-mail abaixo.
+
+E-mail: saboremcasa@email.com
+link para a página de receitas.
+
+
+Página de receitas
+
+Receitas
+> Nesta página você encontrará algumas receitas simples e saborosas para preparar em casa. Confira os ingredientes necessários e acompanhe o modo de preparo de cada uma.
+
+
+Pão de Queijo
+> O pão de queijo é uma receita muito conhecida e apreciada no Brasil, especialmente em Minas Gerais. É uma ótima opção para o café da manhã ou para acompanhar um café da tarde.
+
+Ingredientes
+
+500 g de polvilho
+
+250 ml de leite
+
+100 ml de óleo
+
+1 colher de chá de sal
+
+2 ovos
+
+200 g de queijo ralado
+
+
+Modo de preparo
+> Aqueça o leite, o óleo e o sal. Coloque o polvilho em uma tigela e despeje a mistura quente sobre ele, mexendo bem. Quando estiver morna, acrescente os ovos e o queijo ralado.
+
+> Misture até formar uma massa uniforme. Faça pequenas bolas e coloque-as em uma assadeira. Leve ao forno preaquecido e asse até que estejam douradas.
+
+---
+
+Bolo de Chocolate
+> O bolo de chocolate é uma receita clássica e fácil de preparar. É uma opção perfeita para o café da tarde e pode ser servido simples ou acompanhado de uma cobertura.
+
+Ingredientes
+
+2 xícaras de farinha de trigo
+
+1 xícara de açúcar
+
+1 xícara de chocolate em pó
+
+2 ovos
+
+1 xícara de leite
+
+1/2 xícara de óleo
+
+1 colher de sopa de fermento
+
+
+Modo de preparo
+
+> Em uma tigela, misture os ovos, o açúcar, o leite e o óleo. Acrescente a farinha de trigo e o chocolate em pó aos poucos, misturando até obter uma massa uniforme.
+
+> Por último, adicione o fermento e misture delicadamente. Coloque a massa em uma forma untada e leve ao forno preaquecido. Asse até que o bolo esteja completamente cozido.
+
+---
+
+Panquecas
+
+> As panquecas são práticas, versáteis e podem ser preparadas com diferentes acompanhamentos. Elas podem ser servidas no café da manhã, no lanche ou como uma refeição.
+
+Ingredientes
+
+1 xícara de farinha de trigo
+
+1 xícara de leite
+
+1 ovo
+
+1 colher de sopa de açúcar
+
+1 colher de sopa de óleo
+
+1 colher de chá de fermento
+
+Uma pitada de sal
+
+
+Modo de preparo
+> Em uma tigela, misture o leite, o ovo, o açúcar e o óleo. Acrescente a farinha de trigo e o sal e misture até obter uma massa homogênea.
+
+> Adicione o fermento e misture delicadamente. Aqueça uma frigideira e coloque pequenas porções da massa. Quando aparecerem pequenas bolhas na superfície, vire a panqueca e deixe dourar o outro lado.
+
+---
+
+Final da página
+
+> Gostou das receitas? Volte para a página inicial e conheça mais sobre o Sabor em Casa!
+ volta parapagina incial.
